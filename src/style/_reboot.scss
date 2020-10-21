@@ -33,6 +33,12 @@ a {
   }
 }
 
+hr {
+  height: 0px;
+  border-bottom: none;
+  border-color: $gray;
+}
+
 button {
   margin: 0;
   font-family: inherit;
